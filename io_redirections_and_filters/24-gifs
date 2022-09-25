@@ -1,2 +1,2 @@
 #!/bin/bash
-find '*.gif' -typef
+find *.gif -typef
