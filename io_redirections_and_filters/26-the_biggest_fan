@@ -1,2 +1,2 @@
 #!/bin/bash
-tr -d 'repli'
+tr -d '\n'
